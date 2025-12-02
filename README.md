@@ -50,7 +50,16 @@ The Home module provides an overview of key information:
 
 
 ### 2.6 Real-Time Updates
-- Dashboard reflects new customers, suppliers, and updated sales records instantly.  
+- Dashboard reports are instantly updated as soon as changes are made in tables.  
+
+## Future Enhancements
+- Expand database with additional tables  
+- Implement structured response handling  
+- Use advanced query techniques for efficiency  
+- Add features such as:  
+  - Detailed analytics  
+  - Automated alerts  
+  - Role-based access control
 
 ---
 
